@@ -14,6 +14,20 @@
 
 ---
 
+
+## 📚 Industry Tech Analysis
+
+실제 비즈니스 환경에서 추천 시스템이 어떻게 설계되고 운영되는지 아카이빙 하였습니다. 체계적으로 내용을 정리 요약하여 프로젝트나 실무에서 활용할 예정입니다.
+
+| Source | Core Concept | Key Takeaways & Engineering Points |
+| :--- | :--- | :--- |
+| **오늘의집** | [Multi-Stage RecSys](https://www.bucketplace.com/post/2024-03-26-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-1-multi-stage-recommender-system/) | **Retrieval-Ranking-Reranking**으로 이어지는 실시간 파이프라인 설계 및 서빙 최적화 전략 |
+| **Twitter (X)** | [The Algorithm](https://github.com/twitter/the-algorithm) | **Real Graph 기반의 관계성 설계** 및 차단 사용자 필터링 등 사용자 경험을 고려한 Re-Ranking 로직 |
+| **Toss** | [E-commerce Data](https://toss.im/career/article/38431) | 비정형 데이터의 **정교한 카테고리화**를 통한 데이터 품질 개선 및 추천 정교화의 중요성 |
+
+
+---
+
 ## 📂 Roadmap & Topics
 
 ### 1. Fundamentals & Cold Start
