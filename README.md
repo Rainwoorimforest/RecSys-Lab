@@ -11,7 +11,7 @@
 * **Cold Start Solutions:** 신규 사용자 및 아이템에 대한 데이터 부족 문제를 해결하기 위한 콘텐츠 기반 필터링(CB) 및 하이브리드 기법 연구.
 * **Deep Learning Models:** NCF, DeepFM, Wide & Deep 등 딥러닝 기반의 비선형 특징 추출 및 임베딩 기술 구현.
 * **Best Practices:** [Microsoft Recommenders](https://github.com/recommenders-team/recommenders)의 방법론을 벤치마킹하여 데이터 전처리부터 평가 지표까지 표준화된 파이프라인 구축.
-
+* **references & study** : [eugeneyan의 테크블로그?](https://eugeneyan.com/writing/recsys-llm/)
 ---
 
 
