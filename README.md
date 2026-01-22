@@ -25,7 +25,7 @@
 | **Twitter (X)** | [The Algorithm](https://github.com/twitter/the-algorithm) | **Real Graph 기반의 관계성 설계** 및 차단 사용자 필터링 등 사용자 경험을 고려한 Re-Ranking 로직 |
 | **Toss** | [E-commerce Data](https://toss.im/career/article/38431) | 비정형 데이터의 **정교한 카테고리화**를 통한 데이터 품질 개선 및 추천 정교화의 중요성 |
 
-
+news : [geek news| 트위터 알고리즘 공개(아니근데 원래 오픈소스아닌가)] (https://news.hada.io/topic?id=26010)
 ---
 
 ## 📂 Roadmap & Topics
